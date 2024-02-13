@@ -1,4 +1,4 @@
-// /app/week-3/page.js
+
 import React from 'react';
 import ItemList from './item-list';
 
